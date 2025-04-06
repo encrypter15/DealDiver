@@ -1,7 +1,7 @@
 # DealDiver
 
 ## Description
-Make a Python program named DealDiver that monitors product prices on e-commerce sites (e.g., Amazon), tracks drops, and notifies users via email or text
+DealDiver monitors product prices on e-commerce sites (e.g., Amazon), tracks drops, and notifies users via email or text
 
 ## Author
 Encrypter15
